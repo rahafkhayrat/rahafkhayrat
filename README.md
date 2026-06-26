@@ -57,7 +57,7 @@ I'm an AI enthusiast passionate about building intelligent systems and mobile ap
 🧠 Deep Learning Project
 🐍 Python Project
 🎓 AR Skincare Scanner (Academic Project)
-📫 Contact
+
 ## Connect with me
 
 [LinkedIn](www.linkedin.com/in/rahaf-khayrat)
