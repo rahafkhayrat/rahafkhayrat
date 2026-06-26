@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahaf Khayrat</h1>
 
 <h3 align="center">
-AI Engineer | Flutter Developer | Unity AR Developer
+AI Engineer | Flutter Developer 
 </h3>
 
 ---
@@ -10,7 +10,6 @@ AI Engineer | Flutter Developer | Unity AR Developer
 
 - AI & Machine Learning
 - Flutter Mobile Development
-- Unity AR Applications
 - Python Developer
 - Computer Vision
 
