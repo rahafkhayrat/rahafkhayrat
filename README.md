@@ -38,7 +38,7 @@ Currently learning advanced LLMs and Generative AI.
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rahafkhayrat&theme=tokyonight"/>
 </p>
-🌱 Currently Learning
+
 ## Currently Learning
 
 - Large Language Models (LLMs)
@@ -46,6 +46,7 @@ Currently learning advanced LLMs and Generative AI.
 - AI Agents
 - Flutter Clean Architecture
 
+📌 Featured Projects
 
 🤖 AI / ML Project
 📱 Flutter Mobile App
