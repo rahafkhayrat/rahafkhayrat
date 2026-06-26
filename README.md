@@ -3,11 +3,11 @@
 <h3 align="center">
 AI Engineer • Machine Learning • Deep Learning • Flutter Developer
 </h3>
-✨ Typing Animation
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Flutter+Mobile+Developer;Always+Learning+New+Things"/>
 </p>
-💜 About Me
+
 ## About Me
 
 I'm an AI enthusiast passionate about building intelligent systems and mobile applications.
@@ -57,4 +57,4 @@ Currently learning advanced LLMs and Generative AI.
 
 [LinkedIn](www.linkedin.com/in/rahaf-khayrat)
 
-Email: rahafkhayrat41@gmail.com
+[Email](rahafkhayrat41@gmail.com)
