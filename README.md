@@ -29,7 +29,7 @@ AI Engineer | Flutter Developer | Unity AR Developer
 ## Connect with me
 
 - LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: YOUR_EMAIL
+- Email: rahafkhayrat41@gmail.com
 
 ---
 
