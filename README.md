@@ -1,34 +1,32 @@
 <h1 align="center">Hi 👋, I'm Rahaf Khayrat</h1>
 
-<h3 align="center">AI Engineer • Flutter Developer 
-
+<h3 align="center">
+AI Engineer • Machine Learning • Deep Learning • Flutter Developer
+</h3>
+✨ Typing Animation
 <p align="center">
-  <a href="https://github.com/rahafkhayrat">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+Engineer;Flutter+Developer;Unity+AR+Developer;Python+Developer;Always+Learning+Something+New" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Flutter+Mobile+Developer;Always+Learning+New+Things"/>
 </p>
-
----
-
+💜 About Me
 ## About Me
 
-- AI & Machine Learning
+I'm an AI enthusiast passionate about building intelligent systems and mobile applications.
+
+- Machine Learning
+- Deep Learning
 - Computer Vision
-- Flutter Mobile Apps
-- Python
+- Natural Language Processing
+- Flutter Mobile Development
+- Python Programming
 
----
-
-## Tech Stack
-
+Currently learning advanced LLMs and Generative AI.
+🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,unity,cs,cpp,git,github,vscode,tensorflow,pytorch,firebase" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flutter,dart,firebase,git,github,vscode,linux"/>
+
 </p>
-
----
-
-## GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahafkhayrat&show_icons=true&theme=tokyonight"/>
@@ -40,14 +38,23 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rahafkhayrat&theme=tokyonight"/>
 </p>
+🌱 Currently Learning
+## Currently Learning
 
----
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Flutter Clean Architecture
 
+
+🤖 AI / ML Project
+📱 Flutter Mobile App
+🧠 Deep Learning Project
+🐍 Python Project
+🎓 AR Skincare Scanner (Academic Project)
+📫 Contact
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/www.linkedin.com/in/rahaf-khayrat)
+[LinkedIn](www.linkedin.com/in/rahaf-khayrat)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:rahafkhayrat41@gmail.com)
-
----
-⭐ Thanks for visiting my profile!
+Email: rahafkhayrat41@gmail.com
