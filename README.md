@@ -22,7 +22,7 @@ I'm an AI enthusiast passionate about building intelligent systems and mobile ap
 🛠️ Tech Stack
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flutter,dart,firebase,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flutter,dart,firebase,git,github,vscode"/>
 
 </p>
 📊 GitHub Stats
