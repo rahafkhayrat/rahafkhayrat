@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Rahaf Khayrat Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Rahaf Khayrat</h1>
 
 <h3 align="center">
