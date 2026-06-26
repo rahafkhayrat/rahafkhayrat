@@ -17,8 +17,9 @@ I'm an AI enthusiast passionate about building intelligent systems and mobile ap
 - Natural Language Processing
 - Flutter Mobile Development
 - Python Programming
-
+- 
 Currently learning advanced LLMs and Generative AI.
+
 🛠️ Tech Stack
 <p align="center">
 
