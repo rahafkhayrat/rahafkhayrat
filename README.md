@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Rahaf Khayrat</h1>
+<h1 align="center"> Rahaf Khayrat</h1>
 
 <h3 align="center">
 AI Engineer • Machine Learning • Deep Learning • Flutter Developer
