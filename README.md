@@ -5,11 +5,7 @@ AI Engineer • Machine Learning • Deep Learning • Flutter Developer
 </h3>
 
 <p align="center">
-Building AI-powered applications with a focus on Machine Learning, Deep Learning, Computer Vision, and Cross-platform Mobile Development.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Flutter+Mobile+Developer;Always+Learning+New+Things"/>
+Learning. Building. Improving.
 </p>
 
 ## About Me
