@@ -3,11 +3,9 @@
 <h3 align="center">
 AI Engineer • Machine Learning • Deep Learning • Flutter Developer
 </h3>
-
 <p align="center">
-Learning. Building. Improving.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=5000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+AI-powered+solutions.;Developing+cross-platform+mobile+applications." alt="Typing SVG" />
 </p>
-
 ## About Me
 
 I'm an AI enthusiast passionate about building intelligent systems and mobile applications.
